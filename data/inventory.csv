@@ -1,0 +1,6 @@
+med_id,med_name,location,quantity,last_updated
+101,Morphine,ICU,120,2026-01-01
+102,Insulin,Pharmacy,200,2026-01-02
+103,Heparin,ER,80,2026-01-02
+104,Fentanyl,ICU,60,2026-01-03
+

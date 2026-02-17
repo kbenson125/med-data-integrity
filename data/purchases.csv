@@ -1,0 +1,5 @@
+purchase_id,med_id,qty_purchased,supplier,purchase_date
+5001,101,50,MedSupplyCo,2025-12-15
+5002,102,100,PharmaPlus,2025-12-20
+5003,103,40,MedSupplyCo,2025-12-25
+
