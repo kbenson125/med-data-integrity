@@ -1,0 +1,5 @@
+med_id,med_name,current_inventory,total_purchased
+101,Morphine,120,50
+102,Insulin,200,100
+103,Heparin,80,40
+104,Fentanyl,60,0
